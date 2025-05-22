@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaTrash } from 'react-icons/fa' // Importing the delete icon
+import { FaTrash } from 'react-icons/fa'
 
 const RemoveAllButton = () => {
 return (

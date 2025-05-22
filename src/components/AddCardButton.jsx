@@ -28,7 +28,7 @@ const AddCardButton = () => {
               ...card,
               content: newContent,
               wordCount: newContent.trim().split(/\s+/).filter(Boolean).length,
-              isSaved: false, // Mark as unsaved when content changes
+              isSaved: false,
             }
           : card
       )
