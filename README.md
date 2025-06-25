@@ -2,7 +2,7 @@
 
 A sleek, interactive, and minimal code snippet manager built with **React** and **Vite**. **Code Snapper** empowers developers to save, organize, and manage code snippets with a beautiful drag-and-drop interface and persistent storage—all within the browser.
 
-[🔗 Live Demo](https://codesnapper.netlify.app/) | [📦 GitHub Repo](https://github.com/Priyanshu-Patil/Code-Snapper)
+## [🔗 Live Demo](https://codesnapper.netlify.app/)
 
 ---
 
